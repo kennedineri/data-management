@@ -9,7 +9,7 @@
 
 
 ### Description
-Relating databases containing SEC financial statement information in SQL for financial analysis, allowing corporations to assess their financial performance over time.
+Relating databases containing SEC financial statement information in SQL for financial analysis, allowing corporations to assess their financial performance over time. This project was completed in a AWS EC2 instance.
 
 ### Intended Use
 This model is for educational purposes. 
